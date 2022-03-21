@@ -24,7 +24,5 @@ int main()
     {
         cout<<"Below Par"<<endl;
     }
-    
-
     return 0;
 }
